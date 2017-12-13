@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.controls{
+  display:flex;
+  flex-direction: row;
+  padding:20px 0;
+  width:100%;
+  border-top: solid #111 1px;
+}
+
+.controls section{
+  border-right: 1px #eee dotted;
+  padding:0 10px;
+}
+
+.controls section:last-of-type{
+  border-right:none;
+}
+  
+.controls section label{
+  font-size: 10px;
+  line-height:16px;
+  float:left;
+  clear:left;
+}
