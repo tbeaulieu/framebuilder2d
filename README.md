@@ -1,3 +1,9 @@
+## Framebuilder 2D 
+
+This is a react based app built utilizing Konva. Feel free to fork or play around with is.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
