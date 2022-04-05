@@ -2,6 +2,8 @@
 
 This is a react based app built utilizing Konva. Feel free to fork or play around with as is.
 
+FYI this is really out of date and needs major refactoring.
+
 Live version can be found here: [https://tbeaulieu.github.io/framebuilder2d/](https://tbeaulieu.github.io/framebuilder2d/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
